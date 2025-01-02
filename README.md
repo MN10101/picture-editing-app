@@ -36,7 +36,7 @@ Welcome to the **Picture Editing App** project! This app is designed to provide 
    git clone https://github.com/MN10101/picture-editing-app
    ```
 
-2. Open the `index.html` file in any modern web browser.
+2. Open the `pics.html` file in any modern web browser.
 
 3. Start editing images and enjoy!
 
