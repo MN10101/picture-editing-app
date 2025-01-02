@@ -1,0 +1,130 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #1e90ff, #ff6ec4);
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+#canvas-section {
+  margin: 20px 0;
+}
+
+#canvas {
+  border: 2px solid #fff;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  max-width: 100%;
+}
+
+#controls {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  margin: 20px 0;
+}
+
+.control-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+
+label {
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+input[type="range"] {
+  width: 200px;
+}
+
+select {
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  font-size: 1rem;
+}
+
+.file-label {
+  background: #ff6ec4;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.file-label:hover {
+  background: #f94c95;
+}
+
+.file-label input {
+  display: none;
+}
+
+button {
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+button.primary {
+  background: #1e90ff;
+  color: #fff;
+}
+
+button.secondary {
+  background: #ff6ec4;
+  color: #fff;
+}
+
+button.reset {
+  background: #32cd32; 
+  color: #fff;
+}
+
+button:hover {
+  transform: scale(1.1);
+}
+
+button:active {
+  transform: scale(1);
+}
+
+#footer {
+  background-color: #1e90ff; 
+  color: #fff;
+  padding: 15px 20px; 
+  text-align: center;
+  font-size: 0.9rem;  
+  border-radius: 8px 8px 0 0;  
+  margin-top: 30px; 
+}
+
+#footer p {
+  margin: 0;
+}
+
+
