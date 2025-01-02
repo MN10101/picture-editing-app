@@ -1,6 +1,6 @@
 # 🎨 Picture Editing App
 
-Welcome to the **Picture Editing App** project! This app is designed to provide a versatile and user-friendly platform for editing images. It includes features like resizing, quality adjustment, applying effects, merging images, and saving your creations.
+Welcome to the **Picture Editing App** project! This app is designed to provide a versatile and user friendly platform for editing images. It includes features like resizing, quality adjustment, applying effects, merging images, and saving your creations.
 
 # Author
 -  Mahmoud Najmeh
