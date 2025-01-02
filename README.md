@@ -52,6 +52,7 @@ Welcome to the **Picture Editing App** project! This app is designed to provide 
    - Merge images by clicking the "Merge Images" button.
 4. **Apply Shape Masks**: Choose a shape (circle or star) to mask the image.
 5. **Reset**: Click the "Reset" button to clear all changes.
+---
 
 
-
+https://github.com/user-attachments/assets/26bdd3c5-ae3e-4174-bd5c-cd18727a2fc6
